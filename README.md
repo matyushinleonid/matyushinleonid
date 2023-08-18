@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matyushinleonid
-- 👀 I’m Computer Vision Engineer @ [NtechLab](https://ntechlab.com/)
-- 🌱 I’m currently working on Neural Architecture Search for Face Recognition, Falling People Detection and NSFW Content Detection
+- 👀 I’m MLOps Engineer @ [dubformer.ai](https://dubformer.ai/) @ [Nebius](https://nebius.com)
+
 - 📫 How to reach me: mail me, I use google mail (my gmail username is the same as here on github)
 
 <!---
