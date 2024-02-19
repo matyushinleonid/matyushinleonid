@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @matyushinleonid
-- 👀 I’m MLOps Engineer @ [dubformer.ai](https://dubformer.ai/) @ [Nebius](https://nebius.com)
 
 - 📫 How to reach me: mail me, I use google mail (my gmail username is the same as here on github)
 
